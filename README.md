@@ -2,11 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Good Girl Gone Global</title>
-</head>
+index.html
+<!DOCTYPE html>
+<html>
 <body>
 
-<h1>Welcome to Aimee's website </h1>
+<h1>Good Girl Gone Global Clothing Store </h1>
 
 <h2>The Following are products that we sell</h2>
   <ul>
@@ -28,4 +29,11 @@
   </ul>
 <p>We are new on the market and our products are incredible</p>
 <p>We hope you like them as much as we do and happy shopping</p>
+
+
+
+
+</body>
+</html>
+
 
