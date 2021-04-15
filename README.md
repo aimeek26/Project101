@@ -1,4 +1,5 @@
 # Project101
+<!DOCTYPE html>
 <html>
 <head>
 <title> Good Girl Gone Global</title>
@@ -7,7 +8,7 @@
 
 <h1>Welcome to Aimee's website </h1>
 
-<h1>The Following are products that we sell</h1>
+<h2>The Following are products that we sell</h2>
   <ul>
     <li>Sports Bra<li>
     <li>Leggings<li>
@@ -27,3 +28,4 @@
   </ul>
 <p>We are new on the market and our products are incredible</p>
 <p>We hope you like them as much as we do and happy shopping</p>
+
